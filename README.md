@@ -5,3 +5,5 @@ Trying to uncover the secrets that are hidden beneath all the readymade librarie
 
 1. implement database indexing with B-trees
 2. implement consistent hashing for distributed databases (partition routing)
+3. implement distributed caching
+4. implement custom error correction logic with udp
